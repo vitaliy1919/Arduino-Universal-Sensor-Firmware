@@ -5,6 +5,8 @@ This firmware for Arduino uses [unified sensor library](https://github.com/adafr
 
 ## Usage
 ### Prerequisites
+- Visual Studio Code with PlatformIO IDE extension (tested on v 1.8.3) installed
+
 At first, the sensors need to be connected to Arduino either by IIC or directly to input ports.
 
 Then you have to write/find a driver compatible with unified sensor library by Adafruit. The list of available drivers and information about library is available at the official Github [repository](https://github.com/adafruit/Adafruit_Sensor). 
